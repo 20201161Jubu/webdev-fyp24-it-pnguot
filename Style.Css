@@ -1,0 +1,117 @@
+body{
+font-family:'Times New Roman', Times, serif;
+
+}
+
+table{
+ width: 750px;
+ margin-top:-45px;
+ margin-top:40px;
+}
+
+th{
+height:80px;
+width: 500px;
+background: palegreen;
+}
+
+img{
+    width:100%;
+    height: 240px;
+    background: #000;
+}
+
+p{
+text-align:center;
+}
+
+h6 {
+	background-color: teal;
+	text-align: center;
+	font-size: 25px;
+	font-family: 'Times New Roman', Times, serif;
+	color: white;
+	font-weight: bolder;
+	margin-top: -5px;
+	margin-left: -10px;
+	margin-right: -10px;
+
+	
+	}
+
+	header{
+		width: 100%;
+	}
+
+td{
+    text-align: justify;
+}
+
+footer{
+	width: 50px;
+	color: #000;
+}
+
+footer{
+margin-top: 25px;
+width: 50px;
+height: 120px;
+text-align: start;
+}
+
+.footer{
+	position:fixed;
+	left:0;
+	bottom:0;
+	width:100%;
+	padding:25px;
+	height:40px;
+	background-color:black;
+	color:white;
+	text-align:center;
+	padding:60px;
+	font-size:15px;
+	font-style: italic;
+	font-style: bold;
+	font-weight:none;
+	text-align:center;
+	background: #594848;
+	color:white;
+	letter-spacing:1px;
+	font-family:'Times New Roman', Times, serif;
+	background-color:black;
+	}
+
+	a{
+	  text-decoration:white;
+	 color:white;
+	}
+
+	p{
+	   padding-right: 155px;
+	   
+	}
+
+	p1{
+		text-align: justify;
+	}
+	
+    footer a{
+            text-decoration: none;
+            color:white;      
+    }
+
+    footer a:hover{
+        color:yellow;
+        text-decoration: underline;
+    }    
+
+	footer a:hover{
+        color:yellow;
+        text-decoration: underline;
+    }    
+
+	a:hover{
+		color:cyan;
+        text-decoration: underline;
+	}  
