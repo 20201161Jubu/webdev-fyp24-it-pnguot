@@ -15,11 +15,6 @@ h6 {
 body {
 	font-family: 'Poppins', sans-serif;
 	background-color: rgb(19, 51, 19);
-	background-image:url('img002.png');
-	height: 100vh;
-	background-size: cover;
-	background-position: center;
-
 }
 
 header {
@@ -34,8 +29,7 @@ header {
 	float: left;
 	list-style: none;
 	padding-left: 20px;
-	margin-top: 1px; 
-	
+	margin-top: 3px;    
 }
 
 .nav-area li {
@@ -51,7 +45,6 @@ header {
 	font-style: bold;
 	text-transform: uppercase;
 	text-decoration: none;
-	background-color: maroon;
     color:#fff;
     border:1px solid #fff ;
 	padding-right: 8px; 
@@ -90,8 +83,6 @@ ul li.active a{
 	color:yellow;
 	text-transform: uppercase;
 	font-size: 50px;
-	
-
 }
 
 .welcome-text a {
@@ -105,11 +96,6 @@ ul li.active a{
 	color: #fff;
 }
 
-.welcome-text :hover{
-	color:orange;
-	cursor: pointer;
-	text-transform: uppercase;
-}
 /*resposive*/
 
 @media (max-width:600px) {
