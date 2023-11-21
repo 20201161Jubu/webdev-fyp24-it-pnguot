@@ -3,13 +3,6 @@
     padding: 0;
     }
 
-    @media (orientation:landscape){
-    }
-    
-    @media (orientation:portrait){
-    
-    }
-
     h6 {
     background-color: teal;
     text-align: center;
@@ -41,7 +34,7 @@ font-family: Times New Roman;
     position: absolute;
     animation: slide 20s infinite;
     opacity: 1;
-    orientation: portrait;
+    display: portrait;
     
      }
     

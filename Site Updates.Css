@@ -3,13 +3,6 @@
     padding: 0;
     }
 
-    @media (orientation:landscape){
-    }
-    
-    @media (orientation:portrait){
-    
-    }
-
 h6 {
 background-color: teal;
 text-align: center;
@@ -24,6 +17,12 @@ margin: 0;
 padding:0;
     
 }
+      
+.logo{
+display: block;
+margin-left: auto;
+margin-right: auto;
+}    
 
 button{
 font-family: Times New Roman;
@@ -45,8 +44,7 @@ width:100% ;
 height: fit-content;
 position: absolute;
 animation: slide 20s infinite;
-opacity: 1;
-orientation: portrait;
+opacity: 0;
 }
     
 @keyframes slide {
