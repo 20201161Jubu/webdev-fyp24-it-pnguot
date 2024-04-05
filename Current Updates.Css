@@ -41,7 +41,7 @@ font-family: Times New Roman;
     position: absolute;
     animation: slide 20s infinite;
     opacity: 1;
-    orientation: portrait;
+   
     
      }
     
@@ -70,6 +70,7 @@ font-family: Times New Roman;
         letter-spacing:1px;
         font-family:'Times New Roman', Times, serif;
         background-color:black;
+       
        
         }
     
